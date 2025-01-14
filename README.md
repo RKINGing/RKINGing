@@ -1,51 +1,29 @@
-## Hi，I'm RKing 👋
+# Hi，I'm RKing 👋
 
-### Welcome to my github!
+**Welcome to my github!**
 
-🛠 Here are my current Tech Stack:
+🛠 **Here are my current Tech Stack:**
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div>
-    <h4>🎨 Frontend  </h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,npm,pnpm&theme=dark" />
-    </p>
-  </div>
+## 🎨   ***Frontend***
+   
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,npm,pnpm,net&theme=dark" />  
 
-  <div>
-    <h4>⚙️ Backend   </h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,spring,sqlite&theme=dark" />
-    </p>
-  </div>
+## ⚙️ ***Backend***  
+   
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,spring,sqlite&theme=dark" />
 
-  <div>
-    <h4>💻DevOps(Development & Operations)</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
-    </p>
-  </div>
-
-  <div>
-    <h4>🔧 Development & Tools</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=git,github,idea,markdown,windows,linux,net&theme=dark" />
-    </p>
-  </div>
-</div>
-
-<div>
-  <div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKINGing&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
-  <div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKINGing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 💻  ***DevOps(Development & Operations)***
     
-  </div>
-</div>
+  <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />   
+
+## 🔧  ***Development & Tools***
+   
+   <img src="https://skillicons.dev/icons?i=git,github,idea,markdown,windows,linux&theme=dark" />
+
+|<img align ="center" src="https://github-readme-stats.vercel.app/api?username=RKINGing&show_icons=true&theme=radical " alt="Rking's github stats" /></img>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKINGing&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8"/>
+|----|----|
+
+
 
 
 <!--
