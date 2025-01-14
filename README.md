@@ -20,7 +20,7 @@
    
    <img src="https://skillicons.dev/icons?i=git,github,idea,markdown,windows,linux&theme=dark" />
 
-|<img align ="center" src="https://github-readme-stats.vercel.app/api?username=RKINGing&show_icons=true&theme=radical " alt="Rking's github stats" /></img>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKINGing&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8"/>
+|<img align ="center" src="https://github-readme-stats.vercel.app/api?username=RKINGing&show_icons=true&theme=radical" alt="Rking's github stats" /></img>|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKINGing&layout=compact&title_color=359697&icon_color=359697&hide_border=true&theme=transparent&langs_count=8"/>
 |----|----|
 
 
