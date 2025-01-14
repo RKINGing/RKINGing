@@ -1,4 +1,4 @@
-## Hi I'm RKing 👋
+## Hi，I'm RKing 👋
 
 ### Welcome to my github!
 
@@ -6,14 +6,14 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div>
-    <h4>🎨 Frontend  Developer</h4>
+    <h4>🎨 Frontend  </h4>
     <p>
       <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,npm,pnpm&theme=dark" />
     </p>
   </div>
 
   <div>
-    <h4>⚙️ Backend Technologies</h4>
+    <h4>⚙️ Backend   </h4>
     <p>
       <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,spring,sqlite&theme=dark" />
     </p>
