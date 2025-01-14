@@ -6,36 +6,46 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div>
-    <h4>💻 Programming Languages</h4>
+    <h4>🎨 Frontend  Developer</h4>
     <p>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,java&theme=dark" />
-    </p>
-  </div>
-
-  <div>
-    <h4>🎨 Frontend Technologies</h4>
-    <p>
-      <img src="https://skillicons.dev/icons?i=react,npm,pnpm,threejs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,npm,pnpm&theme=dark" />
     </p>
   </div>
 
   <div>
     <h4>⚙️ Backend Technologies</h4>
     <p>
-      <img src="https://skillicons.dev/icons?i=mysql,linux,sqlite,postman,spring,maven&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,spring,sqlite&theme=dark" />
     </p>
   </div>
 
+  <div>
+    <h4>💻DevOps(Development & Operations)</h4>
+    <p>
+      <img src="https://skillicons.dev/icons?i=git,postman&theme=dark" />
+    </p>
+  </div>
 
   <div>
-    <h4>🔧 Development Tools</h4>
+    <h4>🔧 Development & Tools</h4>
     <p>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,md&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,github,idea,markdown,windows,linux,net&theme=dark" />
     </p>
   </div>
 </div>
 
+<div>
+  <div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RKINGing&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
+  <div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RKINGing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+  </div>
+</div>
 
 
 <!--
