@@ -6,7 +6,7 @@
 
 ## 🎨   ***Frontend***
    
-   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vue,npm,pnpmt&theme=dark" />  
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,vue,npm,pnpm&theme=dark" />  
 
 ## ⚙️ ***Backend***  
    
