@@ -14,7 +14,7 @@
 
 ## 💻  ***DevOps(Development & Operations)***
     
-  <img src="https://skillicons.dev/icons?i=git,postman，docker&theme=dark" />   
+  <img src="https://skillicons.dev/icons?i=git,postman,docker&theme=dark" />   
 
 ## 🔧  ***Development & Tools***
    
